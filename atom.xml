@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-11-01T14:12:12.913Z</updated>
+  <updated>2016-11-01T14:38:46.868Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,10 +20,17 @@
     <link href="http://yoursite.com/2016/11/01/%E9%80%9A%E8%BF%87flask%E5%BB%BA%E7%AB%99%E7%9A%84%E8%B5%84%E6%96%99/"/>
     <id>http://yoursite.com/2016/11/01/通过flask建站的资料/</id>
     <published>2016-11-01T14:08:23.000Z</published>
-    <updated>2016-11-01T14:12:12.913Z</updated>
+    <updated>2016-11-01T14:38:46.868Z</updated>
     
     <content type="html"><![CDATA[<p>转自：<a href="http://reverland.org/python/2012/11/19/flask/" target="_blank" rel="external">Flask驱动的静态站点生成器(译)</a></p>
 <p>英文原文：<a href="https://nicolas.perriault.net/code/2012/dead-easy-yet-powerful-static-website-generator-with-flask/" target="_blank" rel="external">Dead easy yet powerful static website generator with Flask</a></p>
+<p>纯意译……以下是正文，和jekyll很像的感觉，哈？34行代码完成一个静态站点生成器。</p>
+<p>我想将我的在线身份统合到一个单独的托管地方很久了，因此有了你现在浏览的这个网站。我也寻找一个静态网站架构有段时间了，尝试了许多但一个也不中意。这真令人沮丧。</p>
+<p>然后遇到Armin Ronacher的这个tweet：</p>
+<p>Frozen-Flask is really, really useful. Should have used that earlier.</p>
+<p>— Armin Ronacher (@mitsuhiko) February 6, 2012<br>Armin是Flask这个Python微框架的作者，我喜欢flask的简洁。所以这个tweet一个机灵，我便开始探索Frozen-Flask的玩法。</p>
+<p>Frozen-Flask将Flask应用冻结成静态文件，这样你能够高速而无痛地部署它们。再佐以Flask-FlatPages，你获得了完美的生成静态站点工具集，这个站点将有所以你使用框架能得到的特性。</p>
+<p>-酷的urls和简单的路径管理<br>-强大的模板<br>-本地动态服务<br>-静态版本管理</p>
 ]]></content>
     
     <summary type="html">
