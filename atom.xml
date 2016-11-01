@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-10-30T14:09:40.282Z</updated>
+  <updated>2016-11-01T14:12:12.913Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>通过flask建站的资料</title>
+    <link href="http://yoursite.com/2016/11/01/%E9%80%9A%E8%BF%87flask%E5%BB%BA%E7%AB%99%E7%9A%84%E8%B5%84%E6%96%99/"/>
+    <id>http://yoursite.com/2016/11/01/通过flask建站的资料/</id>
+    <published>2016-11-01T14:08:23.000Z</published>
+    <updated>2016-11-01T14:12:12.913Z</updated>
+    
+    <content type="html"><![CDATA[<p>转自：<a href="http://reverland.org/python/2012/11/19/flask/" target="_blank" rel="external">Flask驱动的静态站点生成器(译)</a></p>
+<p>英文原文：<a href="https://nicolas.perriault.net/code/2012/dead-easy-yet-powerful-static-website-generator-with-flask/" target="_blank" rel="external">Dead easy yet powerful static website generator with Flask</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;转自：&lt;a href=&quot;http://reverland.org/python/2012/11/19/flask/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Flask驱动的静态站点生成器(译)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;英文原文：&lt;a href=&quot;htt
+    
+    </summary>
+    
+    
+      <category term="网页折腾" scheme="http://yoursite.com/tags/%E7%BD%91%E9%A1%B5%E6%8A%98%E8%85%BE/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
